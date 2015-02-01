@@ -1,0 +1,10 @@
+{
+		"name": "roaringbunny-bunny-scripts",
+		"description": "Current set of JS scripts for web content",
+		"version": "1.0",
+		"private": false,
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/roaringbunny/bunny-scripts.git"
+		}
+	}
